@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on ML projects
 - 🌱 I’m currently learning python, ML, DL
-- 📫 How to reach me: babenko.md.job@gmail.com
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,3 +16,10 @@
 ## Tools
 <img src="https://skillicons.dev/icons?i=git,anaconda,idea,visualstudio,qt,postgres&perline=7"/>
 
+## :chart_with_upwards_trend: Some GitHub statistic:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadMaxxx03&theme=github_dark)
+
+## 📬 How to reach me:
+<a href="mailto:babenko.md.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/mad_maxxx_03"><img src="https://img.shields.io/badge/Telegram-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
+ 
